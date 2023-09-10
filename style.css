@@ -29,7 +29,7 @@ nav {
 }
 
 nav a {
-    float: left;
+    /* float: left; */
     font-size: 20px;
     display: inline-block;
     margin: 0;
@@ -82,6 +82,6 @@ body {
     /* padding: left;
     width: 600px; */
 }
-footer {
+/* footer {
 
-}
+} */
